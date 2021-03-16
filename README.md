@@ -7,8 +7,8 @@ At the time the user executes the program, they should decide, by providing a co
 
 Example: suppose you wanna encript the word Hello using a key, K, of 3, the encripted message will be Khoor.
 
-Usage:  $ ./caesar K
-	
-  	$ ./caesar 1
-        plaintext:  hello
-      	ciphertext: ifmmp
+Usage:  
+
+	$ ./caesar 1
+	plaintext:  hello
+	ciphertext: ifmmp
