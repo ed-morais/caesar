@@ -9,6 +9,6 @@ Example: suppose you wanna encript the word Hello using a key, K, of 3, the encr
 
 Usage:  $ ./caesar K
 	
-	      $ ./caesar 1
+  	$ ./caesar 1
         plaintext:  hello
-	      ciphertext: ifmmp
+      	ciphertext: ifmmp
